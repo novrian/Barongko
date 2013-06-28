@@ -1,0 +1,30 @@
+[submodule "Plugin/BakingPlate"]
+	path = Plugin/BakingPlate
+	url = https://github.com/ProLoser/BakingPlate.git
+[submodule "Plugin/Localized"]
+	path = Plugin/Localized
+	url = https://github.com/cakephp/localized
+[submodule "Plugin/AclExtras"]
+	path = Plugin/AclExtras
+	url = https://github.com/markstory/acl_extras
+[submodule "Plugin/DebugKit"]
+	path = Plugin/DebugKit
+	url = https://github.com/cakephp/debug_kit
+[submodule "Plugin/Migrations"]
+	path = Plugin/Migrations
+	url = https://github.com/CakeDC/migrations
+[submodule "Plugin/TwitterBootstrap"]
+	path = Plugin/TwitterBootstrap
+	url = https://github.com/slywalker/TwitterBootstrap
+[submodule "Plugin/TinyMCE"]
+	path = Plugin/TinyMCE
+	url = https://github.com/CakeDC/TinyMCE
+[submodule "Plugin/Search"]
+	path = Plugin/Search
+	url = https://github.com/CakeDC/search.git
+[submodule "Plugin/Utils"]
+	path = Plugin/Utils
+	url = https://github.com/CakeDC/utils.git
+[submodule "Plugin/Users"]
+	path = Plugin/Users
+	url = https://github.com/CakeDC/users
